@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+it's+Hallie+Gurr;Student+at+Colorado+State+University)](https://git.io/typing-svg)
+
+
 ## Hi there 👋
 
 <!--
