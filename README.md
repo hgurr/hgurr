@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+it's+Hallie+Gurr;Student+at+Colorado+State+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=La+Belle+Aurore&size=30&pause=1000&color=FFD1DC&center=true&vCenter=true&width=500&lines=Hello%2C+it's+Hallie+Gurr;Student+at+Colorado+State+University)](https://git.io/typing-svg)
 
 
 ## Hi there 👋
