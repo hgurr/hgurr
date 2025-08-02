@@ -9,8 +9,8 @@
 ### About Me
 
 Currently pursuing a Bachelor's degree in Computer Science with a minor in Deign Thinking at Colorado State University.  
-My work focuses on software development, data analysis, and creating interactive experiences.  
-Dedicated to clean, efficient code and continual learning.
+Passionate about software development, data analysis, and building engaging interactive experiences.  
+Committed to writing clean, efficient code and continuously improving my skills.
 
 ---
 
