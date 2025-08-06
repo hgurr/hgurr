@@ -51,7 +51,14 @@ Committed to writing clean, efficient code and continuously improving my skills.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hgurr&show_icons=true&hide_border=true&title_color=FFC1CC&icon_color=FFC1CC&text_color=ffffff&bg_color=0d1117" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hgurr&hide_border=true&ring=FFC1CC&fire=FFC1CC&currStreakLabel=FFC1CC&currStreakNum=FFF0F3&dates=FFF0F3&background=0d1117" height="180"/>
+
+<img 
+  src="https://nirzak-streak-stats.vercel.app/?user=hgurr&hide_border=true&ring=FFC1CC&fire=FFC1CC&currStreakLabel=FFC1CC&currStreakNum=FFF0F3&dates=FFF0F3&background=0d1117&sideNums=FFFFFF&sideLabels=FFFFFF" 
+  alt="GitHub Streak Stats" 
+  height="180" 
+/>
+
+
 </div>
 
 <br>
