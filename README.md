@@ -8,9 +8,13 @@
 
 ### About Me
 
-Currently pursuing a Bachelor's degree in Computer Science with a minor in Deign Thinking at Colorado State University.  
-Passionate about software development, data analysis, and building engaging interactive experiences.  
-Committed to writing clean, efficient code and continuously improving my skills.
+I’m a senior at Colorado State University pursuing a B.S. in Computer Science with a minor in Design Thinking — a combination that reflects both my technical foundation and my drive to build human-centered, intuitive solutions.
+
+Based in Reno/Sparks, NV, I’m passionate about software development, data analysis, and interactive technology. I’m especially excited by opportunities that allow me to combine logic with creativity — whether that’s designing engaging user experiences, building data-driven tools, or developing immersive game environments.
+
+Previously, I interned with HDRFS, EPSCoR, and NCLab, where I gained hands-on experience in Python and SQL, working on real-world data processing tasks in a collaborative environment. These experiences reinforced my love for clean, efficient code and strengthened my commitment to continuous improvement.
+
+I’m a strong teammate who values clear communication, shared learning, and curiosity-driven problem-solving. I thrive in environments that challenge me to grow — technically and personally — and I’m always eager to take on new tools, frameworks, or ideas.
 
 ---
 
