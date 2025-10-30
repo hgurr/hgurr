@@ -22,8 +22,6 @@ I’m a strong teammate who values clear communication, shared learning, and cur
 
 #### Programming Languages  
 ![C](https://img.shields.io/badge/C-FFC1CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-FFC1CC?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-FFC1CC?style=flat&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FFC1CC?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFC1CC?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-FFC1CC?style=flat&logo=r&logoColor=white)
